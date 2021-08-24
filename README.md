@@ -8,10 +8,10 @@ This exercise is intended to mimic a real-world scenario, and should offer you t
 The goal of this exercise is to find and suggest fixes for security issues in this repository.
 
 1. Create a private [GitHub](https://help.github.com/en/articles/create-a-repo) repository, with `main` and `production` branches
-1. [Invite](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository) `@form3tech-interviewer-1` to your private repo
-1. Import this code into the `main` branch
-1. [Create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to merge from main to production. Review and comment
+1. Import the code from the [latest release](https://github.com/form3tech-oss/innsecure/releases) into the `main` branch
+1. [Create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to merge from main to production. Review and comment on the PR as you would review a PR produced by a colleague.
 1. Produce a PR to fix one of the issues, to demonstrate your coding abilities. Imagine that your PR will be reviewed by the original author of the code, who is keen to learn more about security.
+1. [Invite](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository) `@form3tech-interviewer-1` to your private repo
 
 If you encounter any problems with the service we would encourage you to do some debugging first, before reaching out for help.
 
