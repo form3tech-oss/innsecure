@@ -11,6 +11,7 @@ The goal of this exercise is to find and suggest fixes for security issues in th
 1. Import the code from the [latest release](https://github.com/form3tech-oss/innsecure/releases) into the `main` branch
 1. [Create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to merge from main to production. Review and comment on the PR as you would review a PR produced by a colleague.
 1. Produce a PR to fix one of the issues, to demonstrate your coding abilities. Imagine that your PR will be reviewed by the original author of the code, who is keen to learn more about security.
+1. Double check that your review comments have been submitted for both PRs. If they haven't yet been submitted then there will be a `pending` flag next to each comment and a number next to a green `Finish your review` button in the top-right of the page.
 1. [Invite](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository) `@form3tech-interviewer-1` to your private repo
 
 If you encounter any problems with the service we would encourage you to do some debugging first, before reaching out for help.
