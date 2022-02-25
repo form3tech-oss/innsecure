@@ -7,10 +7,10 @@ This exercise is intended to mimic a real-world scenario, and should offer you t
 The goal of this exercise is to find and suggest fixes for security issues in this repository. To start the exercise please [create a private Github repository](https://help.github.com/en/articles/create-a-repo), with `main` and `production` branches. Then import the code from the [latest release](https://github.com/form3tech-oss/innsecure/releases) into the `main` branch.
 
 ### Task 1
-[Create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to merge from `main` to `production`. Review and comment on the PR as you would review a PR produced by a colleague. Your comments should include vulnerabilities of varying severity.
+[Create a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to merge from `main` to `production`. Review and comment on the PR as you would review a PR produced by a colleague. Your comments should include vulnerabilities of varying severity.
 
 ### Task 2
-Produce a separate PR to create a working fix of one of the issues you identified, allowing you to demonstrate your coding abilities. Imagine that your PR will be reviewed by the original author of the code, who is keen to learn more about security.
+Produce a `fix` branch from `main` to create a working fix of one of the issues you identified, allowing you to demonstrate your coding abilities. Create a PR to merge `fix` into `main` for the reviewers to see the changes you have made. Imagine that your PR will be reviewed by the original author of the code, who is keen to learn more about security.
 
 ### Once Completed
 Double check that your review comments have been submitted for both PRs. If they haven't yet been submitted then there will be a pending flag next to each comment and a number next to a green Finish your review button in the top-right of the page.
