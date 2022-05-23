@@ -2,6 +2,8 @@
 
 InfoSec Engineers at Form3 work on sophisticated, highly available distributed systems in a microservices environment. We detect and evaluate threats, and set standards for engineering security. We also work with other teams to build secure systems, and to spread security awareness.
 This exercise is intended to mimic a real-world scenario, and should offer you the opportunity to demonstrate the security awareness, technical know-how, and communication skills.
+
+Within this exercise we have embedded a range of vulnerabilities focusing on both application security and infrastructure security. We have added both as our goal is to build a team that encompasses both skill-sets, but we do not expect you to tackle both in their entirety. We ask that you showcase your experience as you see fit. The general ruling for what we look for is as follows; excellence within either domain or strong submission across both.
  
 ## Instructions
 The goal of this exercise is to find and suggest fixes for security issues in this repository. To start the exercise please [create a private Github repository](https://help.github.com/en/articles/create-a-repo), with `main` and `production` branches. Then import the code from the [latest release](https://github.com/form3tech-oss/innsecure/releases) into the `main` branch.
